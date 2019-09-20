@@ -1,3 +1,12 @@
+/*Maratona de Programação Simpósio de Informática IFNMG 2019
+Resumo da Questão: O usuário deve digitar de 1 a 3 números, correspondentes a quantas viagens no Tempo (Passado ou Futuro) ele pode fazer.
+Esses números significam quantos anos ele está progredindo ou regredindo no tempo.
+O sistema deve retornar se é Possível(S) ou Não(N) fazer essas viagens no tempo e, no final, voltar ao presente.
+OBS: o usuário pode digitar 3 números MAS apenas viajar 2 vezes.
+
+EX: 5, 12, 9, fazendo apenas 2 viagens, 5 anos para o Futuro e 9 para o passado.
+No final, a pessoa terminaria 4 anos no passado.
+*/
 #include <stdio.h>
 
 int main(int argc, char **argv){
