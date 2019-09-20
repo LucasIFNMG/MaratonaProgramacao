@@ -1,3 +1,9 @@
+/*Maratona de Programação Simpósio de Informática IFNMG 2019
+Resumo da Questão: O usuário deve digitar uma palavra, contendo apenas letras minúsculas sem espaço;
+O sistema deve dizer se as VOGAIS dessa palavra formam um Palíndromo ou não.
+*/
+//@author LucasIFNMG
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
