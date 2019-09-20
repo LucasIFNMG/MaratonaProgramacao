@@ -1,3 +1,9 @@
+/*/*Maratona de Programação Simpósio de Informática IFNMG 2019
+Resumo da Questão: O usuário deveria digitar um número em DECIMAL, que, ao converter para um BINÁRIO(10 dígitos), significaria as alternativas assinaladas em uma prova (0 ou 1)
+O usuário também deve digitar outro número (Decimal), representando o GABARITO.
+O sistema deve apresentar quantas questões o aluno acertou
+*/
+//@author LucasIFNMG
 #include <stdio.h>
 
 int main(){
