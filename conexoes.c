@@ -1,3 +1,7 @@
+/*Maratona de Programação Simpósio de Informática IFNMG 2019
+Resumo da Questão: Simular uma plataforma de Torrents P2P; o usuário deve digitar o número de arquivos e o sistema verificar quantos pares diferentes poderão ser formados
+*/
+//@author LucasIFNMG
 #include <stdio.h>
 #include <stdlib.h>
 
