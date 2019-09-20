@@ -1,6 +1,5 @@
-//@author LucasIFNMG
-
-/* Um jogo de Caça Palavras pode ser representado por uma matriz, sendo que cada posição da matriz pode corresponder a um quadrado do jogo. Zero pode indicar quadrado branco
+/* Maratona de Programação Simpósio de Informática IFNMG 2018
+Um jogo de Caça Palavras pode ser representado por uma matriz, sendo que cada posição da matriz pode corresponder a um quadrado do jogo. Zero pode indicar quadrado branco
 e -1 pode indicar um quadrado preto.
 Dada uma matriz de tamanho mínimo 2x2, verifique as posições que dão início às palavras (Verticais e Horizontais). Considere que uma palavra deve ter no mínimo duas letras
 
@@ -9,6 +8,8 @@ Os 2 primeiros números inteiros sendo n (n >= 2) e m(m >= 2) correspondem à qu
 */
 
 //TODO  : BP L109 ?
+
+//@author LucasIFNMG
 
 #include <stdio.h>
 #include <stdlib.h>
