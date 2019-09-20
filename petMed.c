@@ -1,4 +1,4 @@
-/*Fonte: Maratona de Programação do X Simpósio de Informática do IFNMG - Januária
+/*Maratona de Programação Simpósio de Informática 2018 do IFNMG - Januária
 
 Um animal ficará em uma clínica por x dias, sendo definido x rações DIFERENTES, uma para cada dia.
 Entradas:
