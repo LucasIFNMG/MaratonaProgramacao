@@ -1,2 +1,2 @@
 # MaratonaProgramacao
-Problemas de Maratonas de Programação em que participei no Simpósio de Informática do IFNMG
+Problemas de Maratonas de Programação em que participei no X e XI Simpósios de Informática do IFNMG - Januária
